@@ -2,43 +2,43 @@
     "products":[{
         "id":1,
         "name":"Home",
-       "icon":"1w3NSEer3A5ykyEeCq3CMUsKPXa3mwoNC",
-       "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
+       "icon":"assets/icon/crypto",
+       "dataUrl":"home.json"
     },
     {
         "id":1,
         "name":"Crypto",
-       "icon":"1dBL1ygWK8gbqWvLxD7q_W96PM-qL3vt5",
+        "icon":"assets/icon/crypto",
        "dataUrl":"home.json"
     },
     {
         "id":1,
         "name":"Stocks",
-       "icon":"1zaDIFGQsNOBlON8QK6_vSH6ihEbtFB7r",
+        "icon":"assets/icon/crypto",
        "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
     },
     {
         "id":1,
         "name":"Advice",
-       "icon":"1zFhRtnDOZYCL8ZkiTrVX0lJCYKKVA-DS",
+        "icon":"assets/icon/crypto",
        "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
     },
     {
         "id":1,
         "name":"Rewards",
-       "icon":"1wds1ehJ3_1PBfBV-qgxKD6UMvgUrt92Q",
+        "icon":"assets/icon/crypto",
        "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
     },
     {
         "id":1,
         "name":"News",
-       "icon":"1zFhRtnDOZYCL8ZkiTrVX0lJCYKKVA-DS",
+        "icon":"assets/icon/crypto",
        "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
     },
     {
         "id":1,
         "name":"For You",
-       "icon":"1wds1ehJ3_1PBfBV-qgxKD6UMvgUrt92Q",
+        "icon":"assets/icon/crypto",
        "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
     }]
 }
