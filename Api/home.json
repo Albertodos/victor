@@ -1,0 +1,36 @@
+[
+    {
+        "name": "My Balances",
+        "orderId": 1,
+        "type": "CryptoBalancesListView",
+        "dataUrl": "",
+        "moreUrl": ""
+    },
+    {
+        "name": "My Watchlists",
+        "orderId": 1,
+        "type": "CryptoWatchlistsListView",
+        "dataUrl": "",
+        "moreUrl": ""},
+    {
+        "name": "",
+        "orderId": 1,
+        "type": "PubAdvice",
+        "dataUrl": "",
+        "moreUrl": ""
+    },
+    {
+        "name": "Analytics",
+        "orderId": 1,
+        "type": "CryptoAnalyticsGridView",
+        "dataUrl": "",
+        "moreUrl": ""
+    },
+    {
+        "name": "Learn",
+        "orderId": 1,
+        "type": "PubCrypto",
+        "dataUrl": "",
+        "moreUrl": ""
+    }
+]

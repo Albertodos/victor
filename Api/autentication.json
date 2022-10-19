@@ -1,0 +1,33 @@
+{
+    "user":[{
+        "id":1,
+        "name":"Maite Medina",
+        "phome":"+238 9117673",
+        "email":"maite.medina@gmail.com",
+        "address":"Santiago, Cap Verde",
+        "lastNotification":"10/14/2022",
+        "identityStatus":false,
+        "paymentMethod":"Vint4",
+        "photo":""  
+    },{
+        "id":1,
+        "name":"Victor Pinto",
+        "phome":"+238 9117673",
+        "email":"victor.pinto@gmail.com",
+        "address":"Santiago, Cap Verde",
+        "lastNotification":"10/14/2022",
+        "identityStatus":true,
+        "paymentMethod":"Mastercard", 
+        "photo":""     
+    },{
+        "id":1,
+        "name":"Aderito Cruz",
+        "phome":"+238 9117673",
+        "email":"aderito.cruz@gmail.com",
+        "address":"Santiago, Cap Verde",
+        "lastNotification":"10/14/2022",
+        "identityStatus":false,
+        "paymentMethod":"Visa",
+        "photo":""     
+    }]
+}
