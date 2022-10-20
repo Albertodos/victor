@@ -1,7 +1,7 @@
 {
     "products":[{
         "id":1,
-        "name":"Home",
+        "name":"For You",
        "icon":"assets/icon/home.svg",
        "dataUrl":"home.json"
     },
@@ -21,24 +21,6 @@
         "id":1,
         "name":"Advice",
         "icon":"assets/icon/advice.svg",
-       "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
-    },
-    {
-        "id":1,
-        "name":"Rewards",
-        "icon":"assets/icon/rewards.svg",
-       "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
-    },
-    {
-        "id":1,
-        "name":"News",
-        "icon":"assets/icon/crypto.svg",
-       "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
-    },
-    {
-        "id":1,
-        "name":"For You",
-        "icon":"assets/icon/crypto.svg",
        "dataUrl":"1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
     }]
 }
