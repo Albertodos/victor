@@ -23,13 +23,5 @@
         "percent":"",
         "img":""
     }
-    ,
-    {
-        "id":0,
-        "name": "Rewards",
-        "value": "$3,700.32",
-        "valueChange": "",
-        "percent":"",
-        "img":""
-    }
+    
 ]

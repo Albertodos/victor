@@ -6,6 +6,7 @@
         "dataUrl": "crypto/balances.json",
         "moreUrl": ""
     },
+    
     {
         "name": "My Watchlists",
         "orderId": 1,
