@@ -1,7 +1,7 @@
 {
     "products":[{
         "id":1,
-        "name":"Home",
+        "name":"For you",
        "icon":"assets/icon/home.svg",
        "dataUrl":"home.json"
     },
