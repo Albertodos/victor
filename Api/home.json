@@ -24,8 +24,8 @@
     {
         "name": "Analytics",
         "orderId": 1,
-        "type": "CryptoAnalyticsGridView",
-        "dataUrl": "",
+        "type": "MenuTab",
+        "dataUrl": "crypto/watchlists.json",
         "moreUrl": ""
     },
     {
