@@ -3,7 +3,7 @@
         "name": "My Balances",
         "orderId": 1,
         "type": "CryptoBalancesListView",
-        "dataUrl": "",
+        "dataUrl": "crypto/balances.json",
         "moreUrl": ""
     },
     {
