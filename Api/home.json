@@ -10,7 +10,7 @@
     {
         "name": "My Watchlists",
         "orderId": 1,
-        "type": "MenuTab",
+        "type": "CryptoWatchlistsListView",
         "dataUrl": "crypto/watchlists.json",
         "moreUrl": ""
     },
@@ -24,8 +24,8 @@
     {
         "name": "Analytics",
         "orderId": 1,
-        "type": "MenuTab",
-        "dataUrl": "crypto/watchlists.json",
+        "type": "CryptoAnalyticsGridView",
+        "dataUrl": "",
         "moreUrl": ""
     },
     {
