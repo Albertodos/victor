@@ -10,8 +10,9 @@
         "name": "My Watchlists",
         "orderId": 1,
         "type": "CryptoWatchlistsListView",
-        "dataUrl": "",
-        "moreUrl": ""},
+        "dataUrl": "crypto/watchlists.json",
+        "moreUrl": ""
+    },
     {
         "name": "",
         "orderId": 1,
