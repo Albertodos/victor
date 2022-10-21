@@ -2,7 +2,7 @@
     {
         "name": "My Balances",
         "orderId": 1,
-        "type": "CryptoBalancesListView",
+        "type": "ProductsListView",
         "dataUrl": "crypto/balances.json",
         "moreUrl": ""
     },
