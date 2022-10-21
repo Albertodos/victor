@@ -5,7 +5,7 @@
         "value": "$3,700.32",
         "valueChange": "+$1,092.6765",
         "percent":"1.82",
-        "img":""
+        "img":"assets/crypto.svg"
     },
     {
         "id":0,
@@ -13,7 +13,7 @@
         "value": "$3,700.32",
         "valueChange": "+$1,092.6765",
         "percent":"1.82",
-        "img":""
+        "img":"assets/stocks.svg"
     },
     {
         "id":0,
@@ -21,7 +21,7 @@
         "value": "$3,700.32",
         "valueChange": "",
         "percent":"",
-        "img":""
+        "img":"assets/rewards.svg"
     }
     
 ]
