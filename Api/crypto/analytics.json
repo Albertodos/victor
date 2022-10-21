@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Crypto",
+        "orderId": 1,
+        "type": "CryptoAnalyticsGridView",
+        "dataUrl": "crypto/crypto.json",
+        "moreUrl": ""
+    },
+    {
+        "name": "Stocks",
+        "orderId": 1,
+        "type": "CryptoAnalyticsGridView",
+        "dataUrl": "crypto/crypto.json",
+        "moreUrl": ""
+    }
+]
