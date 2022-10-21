@@ -3,14 +3,14 @@
         "name": "Crypto",
         "orderId": 1,
         "type": "CryptoListView",
-        "dataUrl": "crypto/balances.json",
+        "dataUrl": "crypto/crypto.json",
         "moreUrl": ""
     },
     {
         "name": "Stocks",
         "orderId": 1,
         "type": "CryptoListView",
-        "dataUrl": "crypto/balances.json",
+        "dataUrl": "crypto/crypto.json",
         "moreUrl": ""
     }
 ]
