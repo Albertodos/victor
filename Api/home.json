@@ -6,6 +6,13 @@
         "dataUrl": "crypto/balances.json",
         "moreUrl": ""
     },
+    {
+        "name": "Kappa",
+        "orderId": 1,
+        "type": "ProductsListView",
+        "dataUrl": "crypto/balances.json",
+        "moreUrl": ""
+    },
     
     {
         "name": "My Watchlists",

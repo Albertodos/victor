@@ -3,8 +3,8 @@
         "name": "Crypto",
         "orderId": 1,
         "type": "CryptoListView",
-        "dataUrl": "crypto/crypto.json",
-        "moreUrl": ""
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     },
     {
         "name": "Stocks",

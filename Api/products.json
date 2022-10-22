@@ -2,7 +2,7 @@
     "products": [
         {
             "id": 1,
-            "name": "For you",
+            "name": "Home",
             "icon": "assets/icon/home.svg",
             "dataUrl": "home.json"
         },
