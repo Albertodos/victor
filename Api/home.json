@@ -15,7 +15,7 @@
     },
     
     {
-        "name": "My Watchlists",
+        "name": "Watchlists",
         "orderId": 1,
         "type": "MenuTab",
         "dataUrl": "crypto/watchlists.json",

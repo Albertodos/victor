@@ -7,10 +7,10 @@
         "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     },
     {
-        "name": "Stocks",
+        "name": "Popular Crypto",
         "orderId": 1,
-        "type": "CryptoListView",
-        "dataUrl": "crypto/crypto.json",
-        "moreUrl": ""
+        "type": "CryptoDashboard01",
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     }
 ]
