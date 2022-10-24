@@ -1,16 +1,17 @@
 [
     {
-        "name": "Crypto",
+        "name": "Popular Crypto",
         "orderId": 1,
-        "type": "CryptoAnalyticsGridView",
-        "dataUrl": "crypto/crypto.json",
-        "moreUrl": ""
+        "type": "CryptoDashboard01",
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     },
     {
-        "name": "Stocks",
+        "name": "Crypto",
         "orderId": 1,
-        "type": "CryptoAnalyticsGridView",
-        "dataUrl": "crypto/crypto.json",
-        "moreUrl": ""
+        "type": "CryptoListView",
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     }
+    
 ]
