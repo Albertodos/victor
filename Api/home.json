@@ -6,7 +6,13 @@
         "dataUrl": "crypto/balances.json",
         "moreUrl": ""
     },
-    
+    {
+        "name": "News By Crypto",
+        "orderId": 1,
+        "type": "News",
+        "dataUrl": "crypto/balances.json",
+        "moreUrl": ""
+    },
     {
         "name": "Watchlists",
         "orderId": 1,
