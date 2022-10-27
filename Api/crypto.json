@@ -19,5 +19,12 @@
         "type": "CryptoDashboard01",
         "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
         "moreUrl": ""
+    },
+    {
+        "name": "Today's top movers",
+        "orderId": 1,
+        "type": "CryptoGridView",
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "moreUrl": "View All"
     }
 ]
