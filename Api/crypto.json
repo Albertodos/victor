@@ -1,9 +1,16 @@
 [
     {
-        "name": "My Balances",
+        "name": "",
         "orderId": 1,
         "type": "CryptoBalances",
         "dataUrl": "crypto/cryptoBalance.json",
         "moreUrl": ""
+    },
+    {
+        "name": "My investments",
+        "orderId": 1,
+        "type": "CryptoListView",
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     }
 ]
