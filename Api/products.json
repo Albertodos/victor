@@ -10,7 +10,7 @@
             "id": 1,
             "name": "Crypto",
             "icon": "assets/icon/crypto.svg",
-            "dataUrl": "home.json"
+            "dataUrl": "crypto.json"
         },
         {
             "id": 1,

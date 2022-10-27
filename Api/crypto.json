@@ -1,0 +1,9 @@
+[
+    {
+        "name": "My Balances",
+        "orderId": 1,
+        "type": "CryptoBalances",
+        "dataUrl": "crypto/cryptoBalance.json",
+        "moreUrl": ""
+    }
+]
