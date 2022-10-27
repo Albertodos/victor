@@ -11,6 +11,13 @@
         "orderId": 1,
         "type": "CryptoListView",
         "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
-        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
+        "moreUrl": ""
+    },
+    {
+        "name": "Analytics",
+        "orderId": 1,
+        "type": "CryptoDashboard01",
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "moreUrl": ""
     }
 ]
