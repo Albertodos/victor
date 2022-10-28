@@ -8,16 +8,17 @@
         },
         {
             "id": 1,
-            "name": "Crypto",
-            "icon": "assets/icon/crypto.svg",
-            "dataUrl": "crypto.json"
-        },
-        {
-            "id": 1,
             "name": "Stocks",
             "icon": "assets/icon/stocks.svg",
             "dataUrl": "1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
         },
+        {
+            "id": 1,
+            "name": "Crypto",
+            "icon": "assets/icon/crypto.svg",
+            "dataUrl": "crypto.json"
+        },
+        
         {
             "id": 1,
             "name": "Advice",
