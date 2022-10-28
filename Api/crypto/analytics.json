@@ -1,15 +1,8 @@
 [
     {
-        "name": "Popular Crypto",
-        "orderId": 1,
-        "type": "CryptoDashboard01",
-        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
-        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
-    },
-    {
         "name": "Crypto",
         "orderId": 1,
-        "type": "CryptoListView",
+        "type": "CryptoDashboard01",
         "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
         "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     }
