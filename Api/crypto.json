@@ -2,8 +2,8 @@
     {
         "name": "",
         "orderId": 1,
-        "type": "CryptoBalances",
-        "dataUrl": "crypto/cryptoBalance.json",
+        "type": "ProductBalances",
+        "dataUrl": "WalletAssets/GetUserFullAssetsBalance/1",
         "moreUrl": ""
     },
     {
