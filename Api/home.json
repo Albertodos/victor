@@ -19,7 +19,7 @@
         "name": "",
         "orderId": 1,
         "type": "PubAdvice",
-        "dataUrl": "nada",
+        "dataUrl": "pubCrypto.json",
         "moreUrl": ""
     },
     {
