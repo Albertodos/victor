@@ -33,7 +33,7 @@
         "name": "Learn",
         "orderId": 1,
         "type": "PubCrypto",
-        "dataUrl": "pubCrypto.json",
+        "dataUrl": "crypto/pubCrypto.json",
         "moreUrl": ""
     }
 ]
