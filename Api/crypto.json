@@ -28,6 +28,13 @@
         "moreUrl": ""
     },
     {
+        "name": "Orders",
+        "orderId": 1,
+        "type": "OrdersList",
+        "dataUrl": "Orders/GetWalletOrders/1/1/10",
+        "moreUrl": ""
+    },
+    {
         "name": "Today's top movers",
         "orderId": 1,
         "type": "CryptoGrid/2",
