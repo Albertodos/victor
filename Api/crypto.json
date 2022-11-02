@@ -16,7 +16,7 @@
     {
         "name": "Analytics",
         "orderId": 1,
-        "type": "CryptoDashboard01",
+        "type": "CryptoDashboard03",
         "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
         "moreUrl": ""
     },
