@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "name": "Learn about",
+    "description": "Crypto basics",
+    "icon": "assets/icon/crypto.svg",
+    "dataUrl": "crypto.json"
+}
