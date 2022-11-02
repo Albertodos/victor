@@ -6,13 +6,8 @@
         "dataUrl": "WalletAssets/GetUserFullAssetsBalance/1",
         "moreUrl": ""
     },
-    {
-        "name": "News By Crypto",
-        "orderId": 1,
-        "type": "News",
-        "dataUrl": "crypto/balances.json",
-        "moreUrl": ""
-    },
+    
+
     {
         "name": "Watchlists",
         "orderId": 1,
@@ -38,7 +33,7 @@
         "name": "Learn",
         "orderId": 1,
         "type": "PubCrypto",
-        "dataUrl": "",
+        "dataUrl": "crypto.json",
         "moreUrl": ""
     }
 ]
