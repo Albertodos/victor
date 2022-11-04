@@ -18,8 +18,8 @@
     {
         "name": "Most traded this week",
         "orderId": 1,
-        "type": "PubAdvice",
-        "dataUrl": "crypto/pubCrypto.json",
+        "type": "CryptoListView3",
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
         "moreUrl": ""
     },
     {
