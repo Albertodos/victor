@@ -25,7 +25,7 @@
     {
         "name": "Popular cryptos",
         "orderId": 1,
-        "type": "CryptoDashboard03",
+        "type": "CryptoDashboard04",
         "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
         "moreUrl": ""
     },
