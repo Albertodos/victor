@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Recently viewed",
+        "orderId": 1,
+        "type": "CryptoListView2",
+        "dataUrl": "Watchlist/favourite/GetLastedRecentlyViewed/37/10",
+        "moreUrl": ""
+    },
+    
+
+    {
+        "name": "Today's top movers",
+        "orderId": 1,
+        "type": "CryptoGrid/4",
+        "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
+        "moreUrl": "View All"
+    },
+    {
+        "name": "Most traded this week",
+        "orderId": 1,
+        "type": "PubAdvice",
+        "dataUrl": "crypto/pubCrypto.json",
+        "moreUrl": ""
+    },
+    {
+        "name": "Popular cryptos",
+        "orderId": 1,
+        "type": "CryptoDashboard03",
+        "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
+        "moreUrl": ""
+    },
+    {
+        "name": "All cryptos",
+        "orderId": 1,
+        "type": "CryptoListView",
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "moreUrl": ""
+    }
+]

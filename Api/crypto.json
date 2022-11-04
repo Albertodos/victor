@@ -17,7 +17,7 @@
         "name": "Analytics",
         "orderId": 1,
         "type": "CryptoDashboard03",
-        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
         "moreUrl": ""
     },
     {
@@ -38,7 +38,7 @@
         "name": "Today's top movers",
         "orderId": 1,
         "type": "CryptoGrid/2",
-        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
         "moreUrl": "View All"
     }
 ]
