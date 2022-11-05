@@ -33,7 +33,7 @@
         "name": "All cryptos",
         "orderId": 1,
         "type": "CryptoListView",
-        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "dataUrl": "Watchlist/GetAllWatchlist/USD",
         "moreUrl": ""
     }
 ]

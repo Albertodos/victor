@@ -10,7 +10,7 @@
         "name": "My investments",
         "orderId": 1,
         "type": "CryptoListView",
-        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "dataUrl": "WalletAssets/GetUserAssetBalance/1",
         "moreUrl": ""
     },
     {
