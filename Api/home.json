@@ -19,7 +19,7 @@
         "name": "",
         "orderId": 1,
         "type": "PubAdvice",
-        "dataUrl": "crypto/pubCrypto.json",
+        "dataUrl": "call-to-actions/1?populate%5B0%5D=image",
         "moreUrl": ""
     },
     {
@@ -33,7 +33,7 @@
         "name": "Learn",
         "orderId": 1,
         "type": "PubCrypto",
-        "dataUrl": "crypto/pubCrypto.json",
+        "dataUrl": "call-to-actions/2?populate%5B0%5D=image",
         "moreUrl": ""
     }
 ]
