@@ -37,7 +37,7 @@
     {
         "name": "Today's top movers",
         "orderId": 1,
-        "type": "CryptoGrid/4",
+        "type": "CryptoGrid/2",
         "dataUrl": "Watchlist/GetTodayTopMovers/USD/4",
         "moreUrl": "View All"
     }
