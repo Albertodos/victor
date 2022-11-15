@@ -19,14 +19,14 @@
         "name": "Most traded this week",
         "orderId": 1,
         "type": "CryptoListView3",
-        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "dataUrl": "Watchlist/GetTodayTopMovers/USD/8",
         "moreUrl": ""
     },
     {
         "name": "Popular cryptos",
         "orderId": 1,
         "type": "CryptoDashboard04",
-        "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
+        "dataUrl": "Watchlist/GetTodayTopMovers/USD/8",
         "moreUrl": ""
     },
     {
