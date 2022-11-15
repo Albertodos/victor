@@ -3,7 +3,7 @@
         "name": "Crypto",
         "orderId": 1,
         "type": "CryptoDashboard01",
-        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "dataUrl": "Watchlist/GetTodayTopMovers/USD/8",
         "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     }
     
