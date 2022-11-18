@@ -6,9 +6,7 @@
         "dataUrl": "WalletAssets/GetUserFullAssetsBalance/1",
         "moreUrl": ""
     },
-    
-
-    {
+     {
         "name": "Watchlists",
         "orderId": 1,
         "type": "MenuTab",

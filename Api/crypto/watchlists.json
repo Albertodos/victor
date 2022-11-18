@@ -3,7 +3,7 @@
         "name": "Crypto",
         "orderId": 1,
         "type": "CryptoListView",
-        "dataUrl": "Watchlist/GetAllUserWatchlist/37",
+        "dataUrl": "Watchlist/GetAllUserWatchlist/5bc51aa7-d1c3-4edd-ac3a-26b42201d7a8",
         "moreUrl": "Watchlist/GetWatchlistFullData/BTC/"
     }
 ]
