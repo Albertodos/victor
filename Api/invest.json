@@ -3,7 +3,7 @@
         "name": "Recently viewed",
         "orderId": 1,
         "type": "CryptoListView2",
-        "dataUrl": "Watchlist/favourite/GetLastedRecentlyViewed/5bc51aa7-d1c3-4edd-ac3a-26b42201d7a8/10",
+        "dataUrl": "Watchlist/favourite/GetLastedRecentlyViewed/10",
         "moreUrl": ""
     },
     
