@@ -19,7 +19,7 @@
         "name": "Most traded this week",
         "orderId": 1,
         "type": "CryptoListView3",
-        "dataUrl": "Watchlist/GetTodayTopMovers/USD/8",
+        "dataUrl": "Watchlist/GetTopListByPairVolume/USD/10/2",
         "moreUrl": ""
     },
     {
