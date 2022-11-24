@@ -1,9 +1,17 @@
 [
     {
+        "name": "Stocks",
+        "orderId": 1,
+        "type": "CryptoListView",
+        "dataUrl": "Equity/Watchlist/favourite/GetAllSymbolsWatchlist",
+        "moreUrl": "Watchlist/GetWatchlistFullData/BTC/"
+    },
+    {
         "name": "Crypto",
         "orderId": 1,
         "type": "CryptoListView",
         "dataUrl": "Watchlist/GetAllUserWatchlist",
         "moreUrl": "Watchlist/GetWatchlistFullData/BTC/"
     }
+   
 ]
