@@ -1,0 +1,51 @@
+[
+    {
+        "name": "",
+        "orderId": 1,
+        "type": "ProductBalances",
+        "dataUrl": "WalletAssets/GetUserFullAssetsBalance/1",
+        "moreUrl": ""
+    },
+    {
+        "name": "My investments",
+        "orderId": 1,
+        "type": "CryptoListView",
+        "dataUrl": "WalletAssets/GetUserAssetBalance/1",
+        "moreUrl": ""
+    },
+    {
+        "name": "Corporate Events",
+        "orderId": 1,
+        "type": "CryptoDashboard03",
+        "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
+        "moreUrl": ""
+    },
+    {
+        "name": "Analytics",
+        "orderId": 1,
+        "type": "CryptoDashboard03",
+        "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
+        "moreUrl": ""
+    },
+    {
+        "name": "Affinity Plus Podcasts",
+        "orderId": 1,
+        "type": "CMS01",
+        "dataUrl": "insight?populate[0]=insights&populate[1]=insights.imageContent",
+        "moreUrl": ""
+    },
+    {
+        "name": "Orders",
+        "orderId": 1,
+        "type": "OrdersList",
+        "dataUrl": "Orders/GetWalletOrders/1/1/10",
+        "moreUrl": ""
+    },
+    {
+        "name": "Today's top movers",
+        "orderId": 1,
+        "type": "CryptoGrid/2",
+        "dataUrl": "Fundamentals/GetMostPopularRecords",
+        "moreUrl": "View All"
+    }
+]
