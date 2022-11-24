@@ -10,7 +10,7 @@
             "id": 1,
             "name": "Stocks",
             "icon": "assets/icon/stocks.svg",
-            "dataUrl": "1mgEMvzAtF4LYjUJw3DQ_3Pf6wv9YbRqe"
+            "dataUrl": "stocks.json"
         },
         {
             "id": 1,

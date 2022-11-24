@@ -1,4 +1,12 @@
 [
+
+    {
+        "name": "Stocks",
+        "orderId": 1,
+        "type": "CryptoDashboard01",
+        "dataUrl": "Watchlist/GetTodayTopMovers/USD/8",
+        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
+    },
     {
         "name": "Crypto",
         "orderId": 1,
