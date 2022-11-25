@@ -31,7 +31,7 @@
         "name": "Orders",
         "orderId": 1,
         "type": "OrdersList",
-        "dataUrl": "Orders/GetWalletOrders/1/1/10",
+        "dataUrl": "v2/Orders?Page=1&Limit=10",
         "moreUrl": ""
     },
     {
