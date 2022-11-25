@@ -38,7 +38,7 @@
         "name": "Orders",
         "orderId": 1,
         "type": "OrdersList",
-        "dataUrl": "Equity/Order",
+        "dataUrl": "Equity/Order?PageNo=1&PageSize=10",
         "moreUrl": ""
     },
     {
