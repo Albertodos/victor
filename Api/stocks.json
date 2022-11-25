@@ -38,7 +38,7 @@
         "name": "Orders",
         "orderId": 1,
         "type": "OrdersList",
-        "dataUrl": "Orders/GetWalletOrders/1/1/10",
+        "dataUrl": "Equity/Order",
         "moreUrl": ""
     },
     {
