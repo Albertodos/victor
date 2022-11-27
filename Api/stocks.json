@@ -44,8 +44,8 @@
     {
         "name": "Today's top movers",
         "orderId": 1,
-        "type": "CryptoGrid/2",
-        "dataUrl": "Fundamentals/GetMostPopularRecords",
+        "type": "StocksGrid/2",
+        "dataUrl": "Fundamentals/stockmarketData",
         "moreUrl": "View All"
     }
 ]
