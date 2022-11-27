@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Recently viewed",
+        "orderId": 1,
+        "type": "CryptoListView2",
+        "dataUrl": "Watchlist/favourite/GetLastedRecentlyViewed/10",
+        "moreUrl": ""
+    },
+    
+
+    {
+        "name": "Today's top movers",
+        "orderId": 1,
+        "type": "StocksGrid/4",
+        "dataUrl": "Fundamentals/stockmarketData",
+        "moreUrl": "View All"
+    },
+    {
+        "name": "Most traded this week",
+        "orderId": 1,
+        "type": "CryptoListView3",
+        "dataUrl": "Watchlist/GetTopListByPairVolume/USD/10/2",
+        "moreUrl": ""
+    },
+    {
+        "name": "Popular Stocks",
+        "orderId": 1,
+        "type": "CryptoDashboard04",
+        "dataUrl": "Watchlist/GetTodayTopMovers/USD/8",
+        "moreUrl": ""
+    },
+    {
+        "name": "All Stock",
+        "orderId": 1,
+        "type": "CryptoListView",
+        "dataUrl": "Watchlist/GetAllWatchlist/USD",
+        "moreUrl": ""
+    }
+]
