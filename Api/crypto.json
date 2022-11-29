@@ -10,7 +10,7 @@
         "name": "My investments",
         "orderId": 1,
         "type": "CryptoListView",
-        "dataUrl": "WalletAssets/GetUserAssetBalance/1",
+        "dataUrl": "WalletAssets/all",
         "moreUrl": ""
     },
     {
