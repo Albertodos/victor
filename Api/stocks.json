@@ -3,7 +3,7 @@
         "name": "",
         "orderId": 1,
         "type": "ProductBalances",
-        "dataUrl": "WalletAssets/GetUserFullAssetsBalance/1",
+        "dataUrl": "v2/Account/balance",
         "moreUrl": ""
     },
     {
