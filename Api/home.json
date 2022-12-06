@@ -3,16 +3,17 @@
         "name": "My Balances",
         "orderId": 1,
         "type": "ProductsListView",
-        "dataUrl": "WalletAssets/GetUserCryptoAssetsBalance",
+        "dataUrl": "v2/Account/balance",
         "moreUrl": ""
     },
     {
         "name": "",
         "orderId": 1,
         "type": "ProductsListView",
-        "dataUrl": "v2/Account/balance",
+        "dataUrl": "WalletAssets/GetUserCryptoAssetsBalance",
         "moreUrl": ""
     },
+    
      {
         "name": "Watchlists",
         "orderId": 1,
