@@ -6,34 +6,7 @@
         "dataUrl": "v2/Account/balance",
         "moreUrl": ""
     },
-    {
-        "name": "My investments",
-        "orderId": 1,
-        "type": "CryptoListView",
-        "dataUrl": "WalletAssets/GetUserAssetBalance/1",
-        "moreUrl": ""
-    },
-    {
-        "name": "Corporate Events",
-        "orderId": 1,
-        "type": "CryptoDashboard03",
-        "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
-        "moreUrl": ""
-    },
-    {
-        "name": "Analytics",
-        "orderId": 1,
-        "type": "CryptoDashboard03",
-        "dataUrl": "Watchlist/GetTopCoinFullData/USD/1",
-        "moreUrl": ""
-    },
-    {
-        "name": "Affinity Plus Podcasts",
-        "orderId": 1,
-        "type": "CMS01",
-        "dataUrl": "insight?populate[0]=insights&populate[1]=insights.imageContent",
-        "moreUrl": ""
-    },
+   
     {
         "name": "Orders",
         "orderId": 1,
