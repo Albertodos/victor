@@ -6,6 +6,20 @@
         "dataUrl": ["WalletAssets/GetUserCryptoAssetsBalance","v2/Account/balance"],
         "moreUrl": ""
     },
+    {
+        "name": "",
+        "orderId": 1,
+        "type": "ProductsListView",
+        "dataUrl": "v2/Account/balance",
+        "moreUrl": ""
+    },
+    {
+        "name": "",
+        "orderId": 1,
+        "type": "ProductsListView",
+        "dataUrl": "WalletAssets/GetUserCryptoAssetsBalance",
+        "moreUrl": ""
+    },
      {
         "name": "Watchlists",
         "orderId": 1,
