@@ -3,7 +3,7 @@
         "name": "My Balances",
         "orderId": 1,
         "type": "ProductsListView",
-        "dataUrl": "WalletAssets/GetUserFullAssetsBalance/1",
+        "dataUrl": ["WalletAssets/GetUserCryptoAssetsBalance","v2/Account/balance"],
         "moreUrl": ""
     },
      {
