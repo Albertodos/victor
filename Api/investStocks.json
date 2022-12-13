@@ -33,7 +33,7 @@
         "name": "All Stock",
         "orderId": 1,
         "type": "StocksListView",
-        "dataUrl": "Watchlist/GetAllWatchlist/USD",
+        "dataUrl": "Fundamentals/GetMovingRecords",
         "moreUrl": ""
     }
 ]
