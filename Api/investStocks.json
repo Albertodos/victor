@@ -25,14 +25,14 @@
     {
         "name": "Popular Stocks",
         "orderId": 1,
-        "type": "CryptoDashboard04",
+        "type": "StocksDashboard04",
         "dataUrl": "Fundamentals/GetMostPopularRecords",
         "moreUrl": ""
     },
     {
         "name": "All Stock",
         "orderId": 1,
-        "type": "CryptoListView",
+        "type": "StocksListView",
         "dataUrl": "Watchlist/GetAllWatchlist/USD",
         "moreUrl": ""
     }
