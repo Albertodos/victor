@@ -12,21 +12,21 @@
         "name": "Today's top movers",
         "orderId": 1,
         "type": "StocksGrid/4",
-        "dataUrl": "Fundamentals/stockmarketData",
+        "dataUrl": "Fundamentals/GetMovingRecords",
         "moreUrl": "View All"
     },
     {
         "name": "Most traded this week",
         "orderId": 1,
         "type": "CryptoListView3",
-        "dataUrl": "Watchlist/GetTopListByPairVolume/USD/10/2",
+        "dataUrl": "Fundamentals/GetMostTradedRecords",
         "moreUrl": ""
     },
     {
         "name": "Popular Stocks",
         "orderId": 1,
         "type": "CryptoDashboard04",
-        "dataUrl": "Watchlist/GetTodayTopMovers/USD/8",
+        "dataUrl": "Fundamentals/GetMostPopularRecords",
         "moreUrl": ""
     },
     {
