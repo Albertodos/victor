@@ -12,13 +12,13 @@
         "name": "Today's top movers",
         "orderId": 1,
         "type": "StocksGrid/4",
-        "dataUrl": "Fundamentals/GetMovingRecords",
+        "dataUrl": "Fundamentals/stockmarketData",
         "moreUrl": "View All"
     },
     {
         "name": "Most traded this week",
         "orderId": 1,
-        "type": "CryptoListView3",
+        "type": "StocksListView3",
         "dataUrl": "Fundamentals/GetMostTradedRecords",
         "moreUrl": ""
     },
