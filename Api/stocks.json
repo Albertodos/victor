@@ -6,6 +6,13 @@
         "dataUrl": "v2/Account/balance",
         "moreUrl": ""
     },
+    {
+        "name": "My investments",
+        "orderId": 1,
+        "type": "StocksListView",
+        "dataUrl": "Equity/Position?Page=1&Limit=10&Filter.AccountId=3",
+        "moreUrl": ""
+    },
    
     {
         "name": "Orders",
