@@ -3,7 +3,7 @@
         "name": "",
         "orderId": 1,
         "type": "ProductBalances",
-        "dataUrl": "v2/Account/balance",
+        "dataUrl": "v2/Account/equity/marketvalue",
         "moreUrl": ""
     },
     {
