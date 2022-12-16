@@ -13,6 +13,13 @@
         "dataUrl": "Equity/Position?Page=1&Limit=10&Filter.AccountId=3",
         "moreUrl": ""
     },
+    {
+        "name": "Affinity Plus Podcasts",
+        "orderId": 1,
+        "type": "CMS01",
+        "dataUrl": "insight?populate[0]=insights&populate[1]=insights.imageContent",
+        "moreUrl": ""
+    },
    
     {
         "name": "Orders",
