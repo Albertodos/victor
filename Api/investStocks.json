@@ -1,12 +1,4 @@
-[
-    {
-        "name": "Recently viewed",
-        "orderId": 1,
-        "type": "CryptoListView2",
-        "dataUrl": "Watchlist/favourite/GetLastedRecentlyViewed/10",
-        "moreUrl": ""
-    },
-    
+[  
 
     {
         "name": "Today's top movers",
