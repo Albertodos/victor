@@ -25,14 +25,14 @@
         "name": "Popular cryptos",
         "orderId": 1,
         "type": "CryptoDashboard04",
-        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD",
+        "dataUrl": "Watchlist/GetTopCoinWatchlist/USD/1/6",
         "moreUrl": ""
     },
     {
         "name": "All cryptos",
         "orderId": 1,
         "type": "CryptoListView",
-        "dataUrl": "Watchlist/GetAllWatchlist/USD",
+        "dataUrl": "Watchlist/GetAllWatchlist/USD/1/6",
         "moreUrl": ""
     }
 ]
