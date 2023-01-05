@@ -21,7 +21,7 @@
         "moreUrl": ""
     },
     {
-        "name": "Affinity Plus Podcasts",
+        "name": "What members are saying",
         "orderId": 1,
         "type": "CMS01",
         "dataUrl": "insight?populate[0]=insights&populate[1]=insights.imageContent",

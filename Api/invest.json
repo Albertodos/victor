@@ -4,7 +4,7 @@
         "orderId": 1,
         "type": "CryptoListView2",
         "dataUrl": "Watchlist/favourite/GetLastedRecentlyViewed/5",
-        "moreUrl": ""
+        "moreUrl": "View All"
     },
     
     {
@@ -19,20 +19,20 @@
         "orderId": 1,
         "type": "CryptoListView3",
         "dataUrl": "Watchlist/GetTopListByPairVolume/USD/10/2",
-        "moreUrl": ""
+        "moreUrl": "View All"
     },
     {
         "name": "Popular cryptos",
         "orderId": 1,
         "type": "CryptoDashboard04",
         "dataUrl": "Watchlist/GetTopCoinWatchlist/USD/1/10",
-        "moreUrl": ""
+        "moreUrl": "View All"
     },
     {
         "name": "All cryptos",
         "orderId": 1,
         "type": "CryptoListView",
         "dataUrl": "Watchlist/GetAllWatchlist/USD/1/10",
-        "moreUrl": ""
+        "moreUrl": "View All"
     }
 ]
