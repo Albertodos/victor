@@ -12,7 +12,7 @@
         "orderId": 1,
         "type": "MenuTab",
         "dataUrl": "crypto/watchlists.json",
-        "moreUrl": ""
+        "moreUrl": "View All"
     },
     {
         "name": "",

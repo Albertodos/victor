@@ -26,7 +26,7 @@
         "orderId": 1,
         "type": "OrdersList",
         "dataUrl": "Equity/Order",
-        "moreUrl": ""
+        "moreUrl": "View All"
     },
     {
         "name": "Today's top movers",
