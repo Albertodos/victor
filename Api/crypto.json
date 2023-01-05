@@ -32,7 +32,7 @@
         "orderId": 1,
         "type": "OrdersList",
         "dataUrl": "v2/Orders?Page=1&Limit=10",
-        "moreUrl": ""
+        "moreUrl": "View All"
     },
     {
         "name": "Today's top movers",
