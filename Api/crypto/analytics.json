@@ -4,14 +4,14 @@
         "name": "Stocks",
         "orderId": 1,
         "type": "CryptoDashboard01",
-        "dataUrl": "Watchlist/GetUserSpendAnalytics/1",
+        "dataUrl": "Watchlist/GetUserSpendAnalytics/1/10",
         "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     },
     {
         "name": "Crypto",
         "orderId": 1,
         "type": "CryptoDashboard01",
-        "dataUrl": "Watchlist/GetUserSpendAnalytics/1",
+        "dataUrl": "Watchlist/GetUserSpendAnalytics/1/10",
         "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
     }
     
