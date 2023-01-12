@@ -32,13 +32,13 @@
         "orderId": 1,
         "type": "OrdersList",
         "dataUrl": "v2/Orders?Page=1&Limit=10",
-        "moreUrl": "View All"
+        "moreUrl": "v2/Orders?"
     },
     {
         "name": "Today's top movers",
         "orderId": 1,
         "type": "CryptoGrid/2",
         "dataUrl": "Watchlist/GetTodayTopMovers/USD/4",
-        "moreUrl": "View All"
+        "moreUrl": "Watchlist/GetTodayTopMovers/USD/"
     }
 ]
