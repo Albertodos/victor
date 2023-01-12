@@ -26,13 +26,13 @@
         "orderId": 1,
         "type": "OrdersList",
         "dataUrl": "Equity/Order",
-        "moreUrl": "View All"
+        "moreUrl": "Equity/Order"
     },
     {
         "name": "Today's top movers",
         "orderId": 1,
         "type": "StocksGrid/2",
         "dataUrl": "Fundamentals/stockmarketData",
-        "moreUrl": "View All"
+        "moreUrl": "Fundamentals/stockmarketData"
     }
 ]
