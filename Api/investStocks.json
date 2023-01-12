@@ -5,27 +5,27 @@
         "orderId": 1,
         "type": "StocksGrid/4",
         "dataUrl": "Fundamentals/stockmarketData",
-        "moreUrl": "View All"
+        "moreUrl": "Fundamentals/stockmarketData"
     },
     {
         "name": "Most traded this week",
         "orderId": 1,
         "type": "StocksListView3",
         "dataUrl": "Fundamentals/GetMostTradedRecords",
-        "moreUrl": ""
+        "moreUrl": "Fundamentals/GetMostTradedRecords"
     },
     {
         "name": "Popular Stocks",
         "orderId": 1,
         "type": "StocksDashboard04",
         "dataUrl": "Fundamentals/GetMostPopularRecords",
-        "moreUrl": ""
+        "moreUrl": "Fundamentals/GetMostPopularRecords"
     },
     {
         "name": "All Stock",
         "orderId": 1,
         "type": "StocksListView",
         "dataUrl": "Fundamentals/GetMovingRecords",
-        "moreUrl": ""
+        "moreUrl": "Fundamentals/GetMovingRecords"
     }
 ]
