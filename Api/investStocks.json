@@ -22,7 +22,7 @@
         "moreUrl": "Fundamentals/GetMostPopularRecords"
     },
     {
-        "name": "All Stock",
+        "name": "All Stocks",
         "orderId": 1,
         "type": "StocksListView",
         "dataUrl": "Fundamentals/GetMovingRecords",
