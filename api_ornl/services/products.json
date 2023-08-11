@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Stocks",
+        "orderId": 1,
+        "type": "cardsFrame1",
+        "dataUrl": "WalletAssets/GetUserSpendAnalytics/2",
+        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
+    },
+    {
+        "name": "Security",
+        "orderId": 1,
+        "type": "cardsFrame1",
+        "dataUrl": "WalletAssets/GetUserSpendAnalytics/2",
+        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
+    },
+    {
+        "name": "ETFs",
+        "orderId": 1,
+        "type": "cardsFrame1",
+        "dataUrl": "WalletAssets/GetUserSpendAnalytics/2",
+        "moreUrl": "Watchlist/GetTopCoinWatchlist/USD"
+    }
+]

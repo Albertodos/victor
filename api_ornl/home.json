@@ -1,23 +1,36 @@
 [
     {
-        "name": "My Balances",
+        "name": "Learn",
         "orderId": 1,
-        "type": "ProductsListView",
-        "dataUrl": "v2/Account/equity/marketvalue,WalletAssets/GetUserCryptoAssetsBalance",
+        "type": "Learn",
+        "dataUrl": {
+            "value": "Learn how to invest in stocks and fixed income investments and earn Rewards by completing objectives"
+        },
         "moreUrl": ""
-    },
-    {
-        "name": "Watchlists",
-        "orderId": 1,
-        "type": "MenuTab",
-        "dataUrl": "crypto/watchlists.json",
-        "moreUrl": "View All"
     },
     {
         "name": "",
         "orderId": 1,
-        "type": "PubAdvice",
-        "dataUrl": "call-to-actions/1?populate%5B0%5D=image",
+        "type": "cardsFrame1",
+        "dataUrl": "services/products.json",
+        "moreUrl": ""
+    },
+    {
+        "name": "",
+        "orderId": 1,
+        "type": "cardsFrame3",
+        "dataUrl": {
+            "name": "Playground",
+            "descreption": "Use our virtual cash to simulate investments, create and test investment scenarios",
+            "idUser": ""
+        },
+        "moreUrl": ""
+    },
+    {
+        "name": "News",
+        "orderId": 1,
+        "type": "cardsFrame2",
+        "dataUrl": "services/news.json",
         "moreUrl": ""
     },
     {
